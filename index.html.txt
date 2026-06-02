@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Absensi Magang</title>
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+        iframe { border: none; width: 100%; height: 100%; }
+    </style>
+</head>
+<body>
+    <!-- Ganti URL di bawah dengan URL Web App Apps Script milikmu -->
+    <iframe src="https://script.google.com/macros/s/AKfycbw_ECbmTVOc3NMWh2Ql6hO1JOr9Euid4u_qZCaplmspw4lHvXWyhyPubU5NMfKEOkQy3A/exec"></iframe>
+</body>
+</html>
